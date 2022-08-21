@@ -1,4 +1,4 @@
-# Profiling-Customers-Through-Credit-Risk-Assessment
+# Profiling Customers Through Credit Risk Assessment
 ## Business Case
 Profiling customer through credit risk assessment
 
