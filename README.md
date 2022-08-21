@@ -1,4 +1,7 @@
 # Profiling Customers Through Credit Risk Assessment
+## Dataset
+[South German Credit (UPDATE) Data Set](https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
+
 ## Business Case
 Profiling customer through credit risk assessment
 
