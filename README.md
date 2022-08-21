@@ -9,7 +9,7 @@ Profiling customer through credit risk assessment
 1. Using our clustering model, we can identify clusters from input data based on some common features. 
 2. Using our classification model, we can estimate the probability of a particular customer having a good credit risk.
 
-## Final ranking: Champion
+## 
 * [Watch the whole presentation](https://drive.google.com/drive/folders/1bzjRO5fRj4Tuu8V_fZhjJ4UI4G-z8TpQ)
 
 ## Contributors: 
