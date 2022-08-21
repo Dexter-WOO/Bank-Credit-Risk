@@ -17,5 +17,4 @@ Profiling customer through credit risk assessment
 * Liew Ze Li ([LinkedIn](https://www.linkedin.com/in/zeliliew/), [GitHub](https://github.com/zeliliew))
 
 ## Libraries Requirements:
-See [requirements.txt]().
-
+See [requirements.txt](https://github.com/Dexter-WOO/Profiling-Customers-Through-Credit-Risk-Assessment/blob/main/requirements.txt).
